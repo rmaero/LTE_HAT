@@ -1,7 +1,9 @@
 4G HAT para Raspberry Pi, Diseño completo de un HAT compatible con Raspberry Pi que integra comunicaciones celulares 4G/LTE. Hecho especialmente para usar como companion computer en y comunicarse con un PixHawk en un UAV (unmanned aerial vehicle).
 Desarrollado como proyecto final para la materia Diseño Avanzado de Circuitos Impresos en la Universidad Nacional de Rosario.
+![photo_2026-01-16 08 11 02](https://github.com/user-attachments/assets/e94e78a6-3bdc-4169-a824-52028126c155)
+
 ![photo_2026-01-16 08 11 04](https://github.com/user-attachments/assets/b04e4a6f-a7db-4371-9845-dae724024507)
-![photo_2026-01-16 08 11 04](https://github.com/user-attachments/assets/92a3a402-e783-482d-ba9c-33df29802437)
+
 Dentro del repositorio se van a encontrar 3 versiones del layout apenas diferentes entre si. Estas iteraciones se hicieron en busqueda de optimizar el espacio y la comodidad de los conectores para el usuario (tener en cuenta que una vez estar montado sobre una Raspberry Pi la cara inferior del HAT no es accesible).
 
 Características
